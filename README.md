@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
-- 🌱 I’m currently learning HTML, CSS & JavaScript
 
+- 🌱 I’m currently learning **HTML, CSS & JavaScript**
 - 📫 How to reach me **sararampazzo.ph@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
